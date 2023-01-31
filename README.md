@@ -1,2 +1,2 @@
 # Project_Management
-Clinical Management System - Project Mmodule
+Clinical Management System - Project Module
